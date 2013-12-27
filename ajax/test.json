@@ -1,0 +1,23 @@
+{"cw_node_data":"[{"id":"SERPINE1", "count":3,"ngc":"r"},{"id":"TIMP1", "count":2,"ngc":"r"},{"id":"PTGS2", "count":2,"ngc":"r"},{"id":"ERBB2", "count":2,"ngc":"r"},{"id":"PLAU", "count":2,"ngc":"r"},{"id":"TOP2A", 
+"count":1,"ngc":"r"},{"id":"PRDX2", "count":1,"ngc":"r"},{"id":"SKP2", "count":1,"ngc":"r"},{"id":"PPIA", "count":1,"ngc":"r"},{"id":"PRKAB1", "count":1,"ngc":"r"},{"id":"VEGFC", "count":1,"ngc":"r"},{"id":"ADAM17", 
+"count":1,"ngc":"r"},{"id":"NUMB", "count":1,"ngc":"r"},{"id":"CD276", "count":1,"ngc":"r"},{"id":"MTDH", "count":1,"ngc":"r"},{"id":"PTPN3", "count":1,"ngc":"r"},{"id":"TRPS1", "count":1,"ngc":"r"},{"id":"HPSE", 
+"count":1,"ngc":"r"},{"id":"GLRX3", "count":1,"ngc":"r"},{"id":"BCAR1", "count":1,"ngc":"r"},{"id":"primary breast cancer", "count":26,"ngc":"q"}]","cw_edge_data":"[{"id":"primary breast cancer-SERPINE1", "distance":0 
+,"egc": "d2g ","target":"primary breast cancer","source":"SERPINE1"},{"id":"primary breast cancer-TIMP1", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"TIMP1"},{"id":"primary breast 
+cancer-PTGS2", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PTGS2"},{"id":"primary breast cancer-ERBB2", "distance":0 ,"egc": "d2g ","target":"primary breast 
+cancer","source":"ERBB2"},{"id":"primary breast cancer-PLAU", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PLAU"},{"id":"primary breast cancer-TOP2A", "distance":0 ,"egc": "d2g 
+","target":"primary breast cancer","source":"TOP2A"},{"id":"primary breast cancer-PRDX2", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PRDX2"},{"id":"primary breast cancer-SKP2", 
+"distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"SKP2"},{"id":"primary breast cancer-PPIA", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PPIA"},{"id":"primary breast 
+cancer-PRKAB1", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PRKAB1"},{"id":"primary breast cancer-VEGFC", "distance":0 ,"egc": "d2g ","target":"primary breast 
+cancer","source":"VEGFC"},{"id":"primary breast cancer-ADAM17", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"ADAM17"},{"id":"primary breast cancer-NUMB", "distance":0 ,"egc": "d2g 
+","target":"primary breast cancer","source":"NUMB"},{"id":"primary breast cancer-CD276", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"CD276"},{"id":"primary breast cancer-MTDH", 
+"distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"MTDH"},{"id":"primary breast cancer-PTPN3", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"PTPN3"},{"id":"primary breast 
+cancer-TRPS1", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"TRPS1"},{"id":"primary breast cancer-HPSE", "distance":0 ,"egc": "d2g ","target":"primary breast 
+cancer","source":"HPSE"},{"id":"primary breast cancer-GLRX3", "distance":0 ,"egc": "d2g ","target":"primary breast cancer","source":"GLRX3"},{"id":"primary breast cancer-BCAR1", "distance":0 ,"egc": "d2g 
+","target":"primary breast cancer","source":"BCAR1"},{"id":"PTGS2-TIMP1-co_expression", "distance":0.014,"egc":"co_expression","target":"TIMP1","source":"PTGS2"},{"id":"TIMP1-PLAU-co_expression", 
+"distance":0.019,"egc":"co_expression","target":"PLAU","source":"TIMP1"},{"id":"TOP2A-SKP2-co_expression", 
+"distance":0.009,"egc":"co_expression","target":"SKP2","source":"TOP2A"},{"id":"PTPN3-ADAM17-physical_interactions", 
+"distance":0.210,"egc":"physical_interactions","target":"ADAM17","source":"PTPN3"},{"id":"PTPN3-ERBB2-physical_interactions", 
+"distance":0.330,"egc":"physical_interactions","target":"ERBB2","source":"PTPN3"},{"id":"SERPINE1-PLAU-physical_interactions", 
+"distance":0.120,"egc":"physical_interactions","target":"PLAU","source":"SERPINE1"},{"id":"ERBB2-PTPN3-shared_protein_domains", 
+"distance":0.050,"egc":"shared_protein_domains","target":"PTPN3","source":"ERBB2"},{"id":"BCAR1-PTGS2-genetic_interactions", 
+"distance":0.001,"egc":"genetic_interactions","target":"PTGS2","source":"BCAR1"},{"id":"PTGS2-TRPS1-genetic_interactions", "distance":0.001,"egc":"genetic_interactions","target":"TRPS1","source":"PTGS2"}]"}

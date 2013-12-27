@@ -1,0 +1,52 @@
+NO.	Gene Symbol	Disease Name		DoID	PubMed ID	GeneRIF Text
+1	primary breast cancer		ADAM17		2		2p25		17438092		The proportion of active to total ADAM-17 increased progressively from normal breast tissue to primary breast cancer to lymph node metastases.	
+2	primary breast cancer		AKT1		14		14q32.32|14q32.32		15806160		activated Akt is positively correlated with the protein expression of the transcription/translation factor Y-box binding protein-1 (YB-1) in primary breast cancer; activated Akt binds to and phosphorylates the YB-1 cold shock domain at Ser102	
+3	primary breast cancer		ALCAM		3		3q13.1		20364042		examined ALCAM expression levels in primary breast cancer and distant metastases of the same patient within 29 autopsy cases to better understand the underlying mechanisms of metastases and the role of adhesion molecules in this process	
+4	primary breast cancer		APC		5		5q21-q22		19615284		No statistically significant correlation was found between the methylation of APC gene and pathological complete response to neoadjuvant chemotherapy in primary breast cancer.	
+5	primary breast cancer		BCAR1		16		16q23.1		15448007		BCAR1 has a role in progression of primary breast cancer	
+6	primary breast cancer		BCAS2		1		1p13.2		12169396		The BCAS2 gene was amplified in two of 60 primary breast cancer tissues but not in other cancer cells providing the first evidence of amplification within this region and indicating that BCAS2 gene codes for a nuclear protein.	
+7	primary breast cancer		BRCA1		17		17q21		19615284		Primary breast cancer with an unmethylated BRCA1 gene is prone to achieve a pathological complete response to anthracycline-based neoadjuvant chemotherapy than those with a methylated BRCA1 gene.	
+8	primary breast cancer		CD276		15		15q23-q24		21107115		B7-H3 protein expressed by primary breast cancer cells is associated with extent of regional nodal metastasis.	
+9	primary breast cancer		CDH1		16		16q22.1		17649807		there are significant differences of expression of E-cadherin between primary breast cancer cells and their metastases	
+10	primary breast cancer		CDKN1B		12		12p13.1-p12		18644126		Skp2 and p27Kip1 have roles in resistance to preoperative doxorubicin-based chemotherapy in primary breast cancer	
+11	primary breast cancer		CHI3L1		1		1q32.1		18157633		YKL-40 protein may not have a role in progression of primary breast cancer	
+12	primary breast cancer		E2F1		20		20q11.2		17535433		Assessment of E2F1 at the mRNA level in primary breast cancer is a strong determinant of breast cancer patient outcome.	
+13	primary breast cancer		EFEMP1		2		2p16		19115204		a possible predictive impact of EFEMP1 expression in primary breast cancer	
+14	primary breast cancer		EPHA5		4		4q13.1		19733895		EphA5 might be a potential target for epigenetic silencing in primary breast cancer and a valuable molecular marker for breast cancer carcinogenesis and progression.	
+15	primary breast cancer		ERBB2		17		17q11.2-q12|17q21.1		11759828		overexpression not associated with in vitro drug resistance to CMF or FEC chemotherapy combinations in primary breast cancer	
+16	primary breast cancer		ERBB2		17		17q11.2-q12|17q21.1		17561991		HER-2/neu status of the primary breast cancer is determined by immunohistochemistry and fluorescent in situ hybridization.	
+17	primary breast cancer		ESR2		14		14q23.2		17640362		Expression of estrogen receptor beta2 mRNA has been proposed as a candidate marker for outcome in primary breast cancer following adjuvant endocrine therapy.	
+18	primary breast cancer		FAS		10		10q24.1		18614439		lack of Fas in primary breast cancer is associated with perilymphatic fat infiltration	
+19	primary breast cancer		FGFR4		5		5q35.1-qter		20147743		provide the evidence that FGFR4 388Arg is an independent predictor of pathological complete response following AC-Doc as neoadjuvant chemotherapy in primary breast cancer	
+20	primary breast cancer		FKBP4		12		12p13.33		19584157		Resutls show that three of five autoantibodies FKBP52 PPIA and PRDX2 showed significantly increased reactivity in primary breast cancer and CIS compared with healthy controls.	
+21	primary breast cancer		FOXM1		12		12p13		15958562		Expression of FoxM1 is significantly elevated in primary breast cancer and microarray analysis shows that FoxM1 regulates genes that are essential for faithful chromosome segregation and mitosis.	
+22	primary breast cancer		FOXO1		13		13q14.1		19633686		Studies were further confirmed in clinical primary breast cancer specimens in which high-level expression of AEG-1 was inversely correlated with the expression of FOXO1.	
+23	primary breast cancer		GLRX3		10		10q26		21123948		analysis of primary breast cancer samples demonstrated that enhanced TXNL2 expression correlated with metastasis to the lung and brain and with decreased overall patient survival	
+24	primary breast cancer		HP		16		16q22.1		19108738		none of haptoglobin's three distinct phenotypes (Hp 1-1 Hp 2-1 and Hp 2-2) were identified as a predictor of recurrence free survival in high-risk primary breast cancer	
+25	primary breast cancer		HPSE		4		4q21.3		16217746		results emphasize the significance and clarify the involvement of heparanase in primary breast cancer progression by generating a supportive microenvironment that promotes tumor growth angiogenesis and survival	
+26	primary breast cancer		IGF1R		15		15q26.3		20204283		IGF-IR expression in primary breast cancer is an independent favorable prognostic factor.	
+27	primary breast cancer		KIF14		1		1q32.1		16570270		KIF14 is overexpressed in primary breast cancer; predicts disease-free and overall survival	
+28	primary breast cancer		MTDH		8		8q22.1		19633686		Studies were further confirmed in clinical primary breast cancer specimens in which high-level expression of AEG-1 was inversely correlated with the expression of FOXO1.	
+29	primary breast cancer		MUC1		1		1q21		16752227		atypical MUC1 bearing the noncluster form of Tn antigen is implicated in aggressive growth of primary breast cancer cells particularly in lymphatic metastasis	
+30	primary breast cancer		NUMB		14		14q24.3		19795205		Results indicate that loss of Numb expression is a marker of tumor aggressiveness potentially linked to BRCA1 status and a cancer stem cell phenotype in primary breast cancer.	
+31	primary breast cancer		PLAU		10		10q24		12743986		A high cytosol value of this enyme may be predictive of early relapse in primary breast cancer.	
+32	primary breast cancer		PLAU		10		10q24		14744782		uPA:PAI-1 complex independently predicts the efficacy of adjuvant chemotherapy in patients with primary breast cancer.	
+33	primary breast cancer		PPIA		7		7p13		19584157		Resutls show that three of five autoantibodies FKBP52 PPIA and PRDX2 showed significantly increased reactivity in primary breast cancer and CIS compared with healthy controls.	
+34	primary breast cancer		PRDX2		19		19p13.2		19584157		Resutls show that three of five autoantibodies FKBP52 PPIA and PRDX2 showed significantly increased reactivity in primary breast cancer and CIS compared with healthy controls.	
+35	primary breast cancer		PRKAB1		12		12q24.1		19723334		AMPK phosphorylation and AMPK signalling are reduced in primary breast cancer.	
+36	primary breast cancer		PTGS2		1		1q25.2-q25.3		18663571		COX2 produced in primary breast cancer cells may be vital to the initial development of bone marrow micrometastasis	
+37	primary breast cancer		PTGS2		1		1q25.2-q25.3		20697803		The selective cyclo-oxygenase-2 inhibitor celecoxib reduced level of Ki67 in pre-surgical primary breast cancer.	
+38	primary breast cancer		PTPN3		9		9q31		21119599		PTPH1 stimulated breast cancer growth through regulating vitamin D receptor expression. PTPH1 was overexpressed in primary breast cancer and levels of its protein expression positively correlated with clinical metastasis.	
+39	primary breast cancer		SERPINE1		7		7q21.3-q22		12556967		the PAI-1 level and the Chalkley count are independent prognostic markers for recurrence-free survival in patients with primary breast cancer suggesting that the prognostic impact of PAI-1 is not only based on its involvement in angiogenesis.	
+40	primary breast cancer		SERPINE1		7		7q21.3-q22		14744782		uPA:PAI-1 complex independently predicts the efficacy of adjuvant chemotherapy in patients with primary breast cancer.	
+41	primary breast cancer		SERPINE1		7		7q21.3-q22		21459526		PAI-1 in primary breast cancer tissue correlates with disease aggressiveness and has a strong prognostic impact on primary breast cancer.	
+42	primary breast cancer		SKP2		5		5p13		18644126		Skp2 and p27Kip1 have roles in resistance to preoperative doxorubicin-based chemotherapy in primary breast cancer	
+43	primary breast cancer		STMN1		1		1p36.11		17874182		STMN1 but not SYK or S100A2 have roles in preventing progression of ER-positive primary breast cancer	
+44	primary breast cancer		TIMP1		X		Xp11.3-p11.23		15073104		TIMP-1 may have a role in progression of primary breast cancer	
+45	primary breast cancer		TIMP1		X		Xp11.3-p11.23		17478562		High concentrations of TIMP1-v1+2 mRNA are associated with good prognosis in patients with primary breast cancer.	
+46	primary breast cancer		TOP2A		17		17q21-q22		18465341		Analysis of TOP2A aberrations suggests a differential benefit of adjuvant chemotherapy in patients with primary breast cancer favoring treatment with epirubicin in patients with TOP2A amplifications and perhaps deletions.	
+47	primary breast cancer		TRPS1		8		8q24.12		21761348		we found critical differences in TRPS-1 expression in primary breast cancer	
+48	primary breast cancer		VEGFC		4		4q34.3		16465426		The intratumoral VEGF-C level is a significant prognostic indicator of primary breast cancer.	
+49	primary breast cancer		WNT5A		3		3p21-p14		16569699		The role of Wnt5A in the microenvironment of primary breast cancer and macrophage-induced breast cancer invasion.	
+50	primary breast cancer		YBX1		1		1p34		15806160		activated Akt is positively correlated with the protein expression of the transcription/translation factor Y-box binding protein-1 (YB-1) in primary breast cancer; activated Akt binds to and phosphorylates the YB-1 cold shock domain at Ser102	
+
